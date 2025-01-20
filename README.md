@@ -9,7 +9,6 @@ This repository contains my projects and exercises related to the **Cisco Certif
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Future Plans](#future-plans)
-- [Contact](#contact)
 
 ## Overview
 
